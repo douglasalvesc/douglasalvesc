@@ -2,7 +2,6 @@
 
 🧠 Computer science student at UFT - Palmas | Brazil <br/>
 📝 Currently working on Do-it App <br/>
-📊 Enthusiastic about data structure and algorithms <br/>
 
 
 # 💻 Tech Stack:
