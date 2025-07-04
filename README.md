@@ -1,7 +1,6 @@
 # Hi, I'm Douglas Alves 
 
 🧠 Computer science student at UFT - Palmas | Brazil <br/>
-📝 Currently working on Do-it App <br/>
 
 
 # 💻 Tech Stack:
